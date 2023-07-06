@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MM-AUT
 - 👀 I’m interested in finding jobs in IT project management
-- 🌱 I’m currently learning learning java
+- 🌱 I’m currently learning java
 
 
 <!---
