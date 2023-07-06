@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MM-AUT
+- 👋 Hi, I’m Michael Mayerhofer
 - 👀 I’m interested in finding jobs in IT project management
 - 🌱 I’m currently learning java
 
